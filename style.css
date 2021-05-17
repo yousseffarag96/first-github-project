@@ -1,0 +1,6 @@
+.line {
+    display: inline-block;
+    vertical-align: middle;
+    width: 40%;
+    border-bottom: 0.3em solid grey;
+}
